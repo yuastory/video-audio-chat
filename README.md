@@ -1,4 +1,4 @@
-# Video Chat
+# Video-audio Chat
 
 This repository contains source code for a video chat application.
 
