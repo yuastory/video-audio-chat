@@ -18,6 +18,6 @@ To practice java programming.
 - 6 users can chat in one room.
   
 
-## Etc
+## Requirements
 
 /lib/opencv/x64/opencv_java320.dll to real dll one.
