@@ -4,8 +4,8 @@ This repository contains source code for a video chat application.
 
 It includes functionalities such as video chat, text chat.
 
-
-
+# Purpose
+To practice java programming.
 
 ## Features
 
